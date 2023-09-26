@@ -5,4 +5,6 @@ While still being an aspiring Data Scientist (undergraduate student), I will be 
 
 I utilize open data sources to conduct my studies and practice as well as available data sources provided to me by professors or from personal data collection. 
 
+This is still a work-in-progress and will constantly be updated as I continue to work on my Data Science and Machine Learning journey.
+
 Thank you for reading!
